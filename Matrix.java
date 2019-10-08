@@ -1,10 +1,8 @@
 package FeetNumber;
 /*
-Mila Arkhiptcova
+Mila 
 A program that randomly fills in 0s and 1s into a 4-by-4 matrix,
  prints the matrix, and finds the first row and column with the most 1s.
-10/07/2019
-Bellevue University
 Matrix.java
 */
 public class Matrix {
